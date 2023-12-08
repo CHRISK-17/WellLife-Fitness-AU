@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# WellLife Fitness AU
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to WellLife Fitness AU, your go-to destination for a healthier and more active lifestyle! This web application, built using React and powered by RapidAPI, is designed to enhance your fitness journey with a seamless and engaging user experience.
 
 ## Available Scripts
 

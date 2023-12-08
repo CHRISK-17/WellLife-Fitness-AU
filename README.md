@@ -1,5 +1,8 @@
 # WellLife Fitness AU
 
+<img width="533" alt="new-banner" src="https://github.com/CHRISK-17/WellLife-Fitness-AU/assets/125565153/f35fbdb0-cdf5-4ac2-b018-a6f38afeca36">
+
+
 Welcome to WellLife Fitness AU, your go-to destination for a healthier and more active lifestyle! This web application, built using React and powered by RapidAPI, is designed to enhance your fitness journey with a seamless and engaging user experience.
 
 ## Available Scripts

@@ -5,6 +5,8 @@
 
 Welcome to WellLife Fitness AU, your go-to destination for a healthier and more active lifestyle! This web application, built using React and powered by RapidAPI, is designed to enhance your fitness journey with a seamless and engaging user experience.
 
+Visit Here -> https://wlfitnessau.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
